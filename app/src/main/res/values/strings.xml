@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HW04</string>
+    <string name="welcome_label">Welcome to Trivia App</string>
+    <string name="status_label">Loading Trivia</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_start">Start Trivia</string>
+    <string name="ques_number">Q1</string>
+    <string name="time_left">Time Left: X seconds</string>
+    <string name="button_quit">Quit</string>
+    <string name="button_next">Next</string>
+    <string name="trivia_status_label">Trivia Stats</string>
+    <string name="correct_answers">Correct Answers</string>
+    <string name="message_label">Try again and see if you can get all the correct answers!</string>
+    <string name="button_tryagain">Try Again</string>
+</resources>
